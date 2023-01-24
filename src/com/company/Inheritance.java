@@ -76,14 +76,5 @@ public class Inheritance {
 
 //        Dog d = new Dog();
 //        d.run();
-
-
-
-
-
-
-
-
-
     }
 }
