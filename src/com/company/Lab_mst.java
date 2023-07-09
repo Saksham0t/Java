@@ -1,4 +1,5 @@
 package com.company;
+
 import java.util.*;
 public class Lab_mst{
         static int num(int n)
