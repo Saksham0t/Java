@@ -28,4 +28,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-java/src/jdbc.java
+java/src/com.company.jdbc.java
