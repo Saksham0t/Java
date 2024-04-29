@@ -71,6 +71,24 @@ public class FFAPP {
             }
         }
 
+        //Armstrong for any number
+//        int n = 154;
+//        int sum=0;
+//        int count=0;
+//        for(int temp=n; temp!=0; count++){
+//            temp=temp/10;
+//        }
+//        System.out.println(count);
+//        for(int temp=n; temp!=0; temp=temp/10){
+//            int ld=temp%10;
+//            sum = (int) (sum+Math.pow(ld,count));
+//        }
+//        System.out.println(sum);
+//        if(n==sum){
+//            System.out.println("true");
+//        }else{
+//            System.out.println("false");
+//        }
 
 
     }
